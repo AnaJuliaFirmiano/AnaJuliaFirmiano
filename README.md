@@ -1,4 +1,5 @@
 ## Olá! Eu sou a Ana Julia Firmiano
+Estudo Desenvolvimento de Sistemas e acredito no potencial da tecnologia para mudar o mundo!
 
 - 💬 Contate-me no e-mail: firmianoanajulia@gmail.com
 
